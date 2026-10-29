@@ -1,0 +1,9 @@
+{
+  "name": "Gemini Live Voice Assistant",
+  "description": "A simple real-time voice assistant using the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": "",
+  "majorCapabilities": []
+}
